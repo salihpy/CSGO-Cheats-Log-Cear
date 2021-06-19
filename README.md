@@ -8,9 +8,10 @@ Program to reduce your risk of eating a ban at csgo
 # About
 The program www.legendarycheats.net it is a specially prepared program for its members.
 > www.legendarycheats.com/resgister become a member
+<h3>Join Discord </h3>
+ <a href="https://discord.gg/legendaryteam"> <img src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></a>
 
 
- ![LC](https://i.resmim.net/m5vjL.webp)
  
 # Features
 ![SS](https://i.resmim.net/mRWYK.png)
