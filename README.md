@@ -1,5 +1,5 @@
 # CSGO-Cheats-Log-Cear
- [![Twitter](https://img.shields.io/twitter/follow/tgasalih?color=blue&logoColor=red&style=for-the-badge)](https://twitter.com/tgasalih) <a href="https://www.youtube.com/channel/UCNez8_0lMB2PBTSuSLKYLKg">  ![SS](https://img.shields.io/youtube/channel/subscribers/UCNez8_0lMB2PBTSuSLKYLKg?style=for-the-badge)]</a>
+ [![Twitter](https://img.shields.io/twitter/follow/tgasalih?color=blue&logoColor=red&style=for-the-badge)](https://twitter.com/tgasalih) <a href="https://www.youtube.com/channel/UCNez8_0lMB2PBTSuSLKYLKg">  ![SS](https://img.shields.io/youtube/channel/subscribers/UCNez8_0lMB2PBTSuSLKYLKg?style=for-the-badge)</a>
  ![GitHub watchers](https://img.shields.io/github/watchers/tgasalih/CSGO-Cheats-Log-Cear?style=for-the-badge)
 
 
